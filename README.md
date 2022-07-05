@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ginneman47
-- 👀 I’m interested in ... Web Development , Game Development , Andriod Development and Embedded controllers Programming.
+- 👀 I’m interested in ... Data structures, Web Development , Game Development , Andriod Development and Embedded controllers Programming.
 - 🌱 I’m currently learning ...Full Stack Web Development using MERN stack.
 - 💞️ I’m looking to collaborate on ...<none>
 - 📫 How to reach me ...say omegalul here -> instagram : csgo_jo47
