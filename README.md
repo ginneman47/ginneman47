@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ginneman47
-- 👀 I’m interested in ... Data structures, Web Development , Game Development , Andriod Development and Embedded controllers Programming.
-- 🌱 I’m currently learning ...Full Stack Web Development using MERN stack.
+- 👀 I’m interested in ... Data structures and Algorithms, Web Development and Embedded controllers Programming.
+- 🌱 I’m currently learning ...Full Stack Web Development using MERN stack and comfortable with ASP.NET MVC.
 - 💞️ I’m looking to collaborate on ...<none>
 - 📫 How to reach me ...say omegalul here -> instagram : csgo_jo47
 
